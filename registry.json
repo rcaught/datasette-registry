@@ -1,11 +1,80 @@
 [
   {
+    "title": "ACEmulator Databases",
+    "url": "https://acedb.treestats.net/",
+    "about_url": "https://github.com/amoeba/ace-to-sqlite"
+  },
+  {
+    "title": "air sensors in lewisham",
+    "url": "https://lewisham-air-sensors-history.vercel.app/",
+    "about_url": "https://github.com/lb-lewisham/lewisham-air-sensors-history"
+  },
+  {
+    "title": "AWS IAM definitions",
+    "url": "https://iam-definitions.vercel.app/",
+    "about_url": "https://github.com/simonw/iam-definitions-datasette",
+    "tags": [
+      "aws"
+    ]
+  },
+  {
+    "title": "AWS Partners Global",
+    "url": "https://aws-partners.fly.dev/",
+    "about_url": "https://github.com/kaihendry/aws-partners-datasette",
+    "tags": [
+      "aws"
+    ]
+  },
+  {
+    "title": "Big Local News: Open Projects",
+    "url": "https://biglocal.datasettes.com/",
+    "about_url": "https://github.com/simonw/big-local-datasette",
+    "tags": [
+      "news"
+    ]
+  },
+  {
     "title": "California Protected Areas",
     "url": "https://calands.datasettes.com/",
     "about_url": "https://simonwillison.net/2020/Aug/28/weeknotes-cpad/",
     "tags": [
       "geospatial"
     ]
+  },
+  {
+    "title": "Campi Flegrei Earthquake Events",
+    "url": "https://campi-flegrei.datasette.stefan-dev.de/",
+    "about_url": "https://github.com/bystefankuehnel/campi-flegrei.datasette.stefan-dev.de"
+  },
+  {
+    "title": "CO2 emissions",
+    "url": "https://datasette.ipwa02-01.iu.stefan-dev.de/",
+    "about_url": "https://github.com/bystefankuehnel/datasette.ipwa02-01.iu.stefan-dev.de",
+    "tags": [
+      "environment"
+    ]
+  },
+  {
+    "title": "Core Based Statistical Areas",
+    "url": "https://cbsa.datasettes.com/",
+    "about_url": "https://github.com/simonw/cbsa-datasette",
+    "tags": [
+      "geospatial"
+    ]
+  },
+  {
+    "title": "Cosmology Researcher Talks for Others in the Field",
+    "url": "https://cosmotalks-cy6xkkbezq-uw.a.run.app/",
+    "about_url": "https://cosmotalks-cy6xkkbezq-uw.a.run.app/about",
+    "tags": [
+      "cosmology",
+      "talks"
+    ]
+  },
+  {
+    "title": "Country Codes",
+    "url": "https://country-codes.shihan.dev/",
+    "about_url": "https://github.com/shihanng/country-codes"
   },
   {
     "title": "COVID-19 cases, using data from Johns Hopkins CSSE, the New York Times and the LA Times",
@@ -34,8 +103,32 @@
     ]
   },
   {
+    "title": "DineSafe Toronto",
+    "url": "https://dinesafe-toronto.slothful-myles.com/",
+    "about_url": "https://mylesbraithwaite.com/exploring-torontos-restaurant-inspection-data-with-dinesafe"
+  },
+  {
+    "title": "Dutch Dialect Idioms",
+    "url": "https://dutchdialectidioms.uu.nl/",
+    "about_url": "https://github.com/CentreForDigitalHumanities/idioms",
+    "tags": [
+      "language",
+      "templated"
+    ]
+  },
+  {
+    "title": "Existenz.ch Data APIs Metadata",
+    "url": "https://api-datasette.konzept.space/",
+    "about_url": "https://github.com/cstuder/api-datasette"
+  },
+  {
     "title": "FiveThirtyEight",
     "url": "https://fivethirtyeight.datasettes.com/"
+  },
+  {
+    "title": "fixmystreet in lewisham",
+    "url": "https://lewisham-fixmystreet-history.vercel.app/",
+    "about_url": "https://github.com/lb-lewisham/lewisham-fixmystreet-history"
   },
   {
     "title": "github-to-sqlite with GraphQL",
@@ -48,6 +141,19 @@
     "about_url": "https://github.com/simonw/global-power-plants-datasette",
     "tags": [
       "geospatial"
+    ]
+  },
+  {
+    "title": "JSK Fellows on Twitter",
+    "url": "https://jsk-fellows.datasettes.com/",
+    "about_url": "https://github.com/simonw/jsk-fellows-on-twitter"
+  },
+  {
+    "title": "LacunaDB",
+    "url": "https://law-archive-data.fly.dev/",
+    "about_url": "https://github.com/hueyy/lacuna-db",
+    "tags": [
+      "law"
     ]
   },
   {
@@ -77,6 +183,41 @@
     ]
   },
   {
+    "title": "Opportunities Database",
+    "url": "https://opportunities-db.vercel.app/",
+    "about_url": "https://github.com/fer-aguirre/opportunities-db"
+  },
+  {
+    "title": "Our World in Data covid datasets",
+    "url": "https://owid-covid-datasette.fly.dev/",
+    "about_url": "https://github.com/rscnt/owid-covid-datasette",
+    "tags": [
+      "covid-19",
+      "public-health"
+    ]
+  },
+  {
+    "title": "palewi.re/data/",
+    "url": "https://palewi.re/data/",
+    "about_url": "https://github.com/palewire/datasette"
+  },
+  {
+    "title": "ParlGov",
+    "url": "https://parlgov.datasettes.com/",
+    "about_url": "https://github.com/simonw/parlgov-datasette",
+    "tags": [
+      "government"
+    ]
+  },
+  {
+    "title": "querydata.io",
+    "url": "https://querydata.io/",
+    "about_url": "https://github.com/rcaught/querydata.io/",
+    "tags": [
+      "aws"
+    ]
+  },
+  {
     "title": "Rocky Beaches",
     "url": "https://www.rockybeaches.com/us/pillar-point",
     "about_url": "https://github.com/natbat/rockybeaches",
@@ -84,6 +225,20 @@
       "websites",
       "templated"
     ]
+  },
+  {
+    "title": "Russian Internet Research Agency Facebook Ads",
+    "url": "https://russian-ira-facebook-ads.datasettes.com/",
+    "about_url": "https://simonwillison.net/2018/Aug/6/russian-facebook-ads/",
+    "tags": [
+      "government",
+      "elections"
+    ]
+  },
+  {
+    "title": "Russian Troll Tweets",
+    "url": "https://russian-troll-tweets.datasettes.com/",
+    "about_url": "https://github.com/simonw/russian-troll-tweets-datasette"
   },
   {
     "title": "San Francisco Microscopical Society Archive",
@@ -124,6 +279,11 @@
     ]
   },
   {
+    "title": "Spevktator - OSINT analysis tool for VK",
+    "url": "https://spevktator.io/",
+    "about_url": "https://github.com/MischaU8/spevktator"
+  },
+  {
     "title": "The Foreign Agents Registration Act",
     "url": "https://fara.datasettes.com/",
     "about_url": "https://simonwillison.net/2020/Jan/21/github-actions-cloud-run/"
@@ -158,5 +318,27 @@
     "tags": [
       "government"
     ]
+  },
+  {
+    "title": "US counties, their polygons and FIPS codes",
+    "url": "https://us-counties.datasette.io/",
+    "about_url": "https://github.com/simonw/us-counties-datasette",
+    "tags": [
+      "geospatial",
+      "government"
+    ]
+  },
+  {
+    "title": "Welcome to things Brie learned!",
+    "url": "https://til.brie.dev/",
+    "about_url": "https://github.com/bbbbbrie/til",
+    "tags": [
+      "til"
+    ]
+  },
+  {
+    "title": "wvu-flights",
+    "url": "https://wvu-flights.pages.dev/",
+    "about_url": "https://github.com/AustinDizzy/wvu-flights"
   }
 ]
